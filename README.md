@@ -30,4 +30,4 @@ To complete this assignment, you need to verify which proof from the proofs [dir
 
 ## Resources
 
-1. [PLONK Circom Walkthrough](https://github.com/ZKCamp/plonk-circom-walkthrough)
+1. [PLONK Circom Walkthrough](https://github.com/ZKCamp/plonk-circom-walkthrough-public)
